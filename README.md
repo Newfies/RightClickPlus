@@ -7,7 +7,7 @@
 > **Right Click Plus** is a free browser extension designed to provide useful tools for websites you may use often.
 
 ### Currently Supported Websites
-- <img src="https://github.com/Newfies/RightClickPlus/blob/main/images/YouTube/favicon.png?raw=true" style="height: 25px; width: 25px; margin-right: 50px;"> **YouTube**
+- **YouTube**
   - Redirect to the NoCookie version
 
 ### Universally Supported Features
