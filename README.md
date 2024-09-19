@@ -6,7 +6,6 @@
 
 # <img src="https://github.com/Newfies/RightClickPlus/blob/main/images/Ext/EnabledFavicon.png?raw=true" style="height: 50px; width: 50px; margin-right: 50px;"> Right Click Plus
 > **Right Click Plus** is a free browser extension designed to provide useful tools for websites you may use often.
-> Don't know how to install this? [Click to watch a tutorial](how-to-install.mp4)
 
 ### Currently Supported Websites
 - **YouTube**
