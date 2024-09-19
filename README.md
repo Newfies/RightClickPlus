@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Current_Version-0.0.52-lightgreen">
 </p>
 
-# Right Click Plus
+# <img src="https://github.com/Newfies/RightClickPlus/blob/main/images/Ext/EnabledFavicon.png?raw=true" style="height: 50px; width: 50px; margin-right: 50px;"> Right Click Plus
 > **Right Click Plus** is a free browser extension designed to provide useful tools for websites you may use often.
 
 ### Currently Supported Websites
