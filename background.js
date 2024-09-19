@@ -23,10 +23,10 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
         if (url.includes("youtube.com")) {
             chrome.contextMenus.update("ytContextMenu", { visible: true });
             chrome.contextMenus.update("otherContextMenu", { visible: true });
-        } else {
+        } /* else {
             chrome.contextMenus.update("ytContextMenu", { visible: false });
             chrome.contextMenus.update("otherContextMenu", { visible: true });
-        }
+        } */
     }
 });
 
