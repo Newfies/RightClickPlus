@@ -8,6 +8,7 @@
 
 ### Currently Supported Websites
 - **YouTube**
+ - Redirect to the NoCookie version
 
 ### Universally Supported Features
 - <placeholder>
