@@ -1,0 +1,36 @@
+{
+    "manifest_version": 2,
+    "name": "RightClickPlus",
+    "description": "[BETA] RightClickPlus, Adds More Options To Your Browsers Context Menu",
+    "version": "0.0.6",
+    "icons": {
+        "16": "/images/Ext/EnabledFavicon.png",
+        "48": "/images/Ext/EnabledFavicon.png",
+        "128": "/images/Ext/EnabledFavicon.png"
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "/images/Ext/EnabledFavicon.png",
+            "48": "/images/Ext/EnabledFavicon.png",
+            "128": "/images/Ext/EnabledFavicon.png"
+        }
+    },
+    "permissions": [
+        "tabs",
+        "contextMenus",
+        "https://www.youtube.com/*",
+        "https://youtube.com/*",
+        "https://youtu.be/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/*", "https://youtube.com/*", "https://youtu.be/*"],
+            "css": ["CS/YT/main.css"],
+            "js": ["CS/YT/main.js"]
+        }
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    }
+}
